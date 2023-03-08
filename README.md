@@ -1,4 +1,4 @@
-# Koru-Jekyll Template
+# Koru-Jekyll Template. 
 
 This repository is an example repo that any NCAR or UCAR staff or project can use as a starting point for their own GitHub Pages site. Essentially, GitHub Pages is a static website server built in to every GitHub repository. GitHub Pages serves static HTML, CSS, JS, images, PDFs, text files, etc, but does not support dynamic scripting languages like PHP, Perl, Python, etc.
 
